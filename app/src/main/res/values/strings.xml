@@ -1,0 +1,66 @@
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Miwok</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_phrases">Phrases</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_colors">Colors</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers">Numbers</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_family">Family Members</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="number_one">number one string</string>
+    <string name="miwok_number_one">miwok number one</string>
+
+    <string name="number_two">number two string</string>
+    <string name="miwok_number_two">miwok number two</string>
+
+    <string name="number_three">number four string</string>
+    <string name="miwok_number_three">miwok number three</string>
+
+    <string name="number_four">number one string</string>
+    <string name="miwok_number_four">miwok number four</string>
+
+    <string name="number_five">number one string</string>
+    <string name="miwok_number_five">miwok number five</string>
+
+    <string name="number_six">number one string</string>
+    <string name="miwok_number_six">miwok number six</string>
+
+    <string name="number_seven">number seven string</string>
+    <string name="miwok_number_seven">miwok number one</string>
+
+    <string name="number_eight">number one string</string>
+    <string name="miwok_number_eight">miwok number one</string>
+
+    <string name="number_nine">number one string</string>
+    <string name="miwok_number_nine">miwok number one</string>
+
+    <string name="number_ten">number one string</string>
+    <string name="miwok_number_ten">miwok number one</string>
+
+
+
+</resources>
